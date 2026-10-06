@@ -28,7 +28,7 @@ Edit `~/.cursor/mcp.json` (global) or `.cursor/mcp.json` in the project (project
 
 ## Cline
 
-Edit the file that "Configure MCP Servers" opens in the MCP Servers panel (`cline_mcp_settings.json`; the Cline CLI reads `~/.cline/mcp.json` instead). Add the entry under `mcpServers`:
+Edit the file that "Configure MCP Servers" opens in the MCP Servers panel (`cline_mcp_settings.json`; the Cline CLI reads it at `~/.cline/data/settings/cline_mcp_settings.json`). Add the entry under `mcpServers`:
 
 ```json
 {
