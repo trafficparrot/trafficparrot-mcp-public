@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "trafficparrot",
+  "version": "1.0.1",
+  "description": "Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.",
+  "author": {
+    "name": "Traffic Parrot",
+    "email": "support@trafficparrot.com",
+    "url": "https://trafficparrot.com"
+  },
+  "homepage": "https://trafficparrot.com/ai/agent-trial.html",
+  "repository": "https://github.com/trafficparrot/trafficparrot-mcp-public",
+  "license": "MIT",
+  "keywords": ["service-virtualization", "api-mocking", "testing", "mcp"]
+}
