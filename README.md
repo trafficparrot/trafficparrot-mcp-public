@@ -4,6 +4,8 @@ A public MCP server run by Traffic Parrot, so that your AI coding agent can requ
 
 The server is hosted by Traffic Parrot at `https://mcp.trafficparrot.com/` (remote MCP over streamable HTTP; registry name `com.trafficparrot/public`). This repository holds only its listing metadata, no server code. Issues and feature requests are welcome through the `submit_feature_request` tool or support@trafficparrot.com.
 
+Also listed on [Glama](https://glama.ai/mcp/connectors/com.trafficparrot/public) and [Smithery](https://smithery.ai/servers/trafficparrot/public).
+
 ## Add it to your agent
 
 ### Claude Code
