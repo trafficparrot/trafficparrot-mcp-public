@@ -1,0 +1,32 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.trafficparrot/public",
+  "title": "Traffic Parrot",
+  "description": "Traffic Parrot simulates APIs and messaging. Request or withdraw a trial, read docs, send feedback.",
+  "version": "1.0.1",
+  "websiteUrl": "https://trafficparrot.com/ai/agent-trial.html",
+  "repository": {
+    "url": "https://github.com/trafficparrot/trafficparrot-mcp-public",
+    "source": "github",
+    "id": "1407660629"
+  },
+  "icons": [
+    {
+      "src": "https://trafficparrot.com/img/tp/logo4_r_gray.png",
+      "mimeType": "image/png",
+      "sizes": ["500x205"],
+      "theme": "light"
+    },
+    {
+      "src": "https://trafficparrot.com/img/tp/tpfavico.png",
+      "mimeType": "image/png",
+      "sizes": ["64x64"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.trafficparrot.com/"
+    }
+  ]
+}
